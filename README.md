@@ -1,6 +1,7 @@
 # image_classifier
 
 AWS AI & ML programming with Python Nanodegree 
+Install all the packages mentioned in the requirements.txt file using : ```pip install -r requirements.txt```
 
 ### Basics : The foundations for building your own neural network
 Pyhton, Numpy, Pandas, Matplotlib, PyTorch, and Linear Algebra
