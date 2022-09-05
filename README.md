@@ -13,7 +13,7 @@ PURPOSE: Classifies pet images using a pretrained CNN model, compares these clas
 
 With this program we will be comparing the performance of 3 different CNN model architectures {'resnet': resnet18, 'alexnet': alexnet, 'vgg': vgg16},  to determine which provides the 'best' classification.
 
-### NumPy Mini-Project : Mean_Normalization_and_Data_Separation.ipynb
+### NumPy Mini-Project : ```Mean_Normalization_and_Data_Separation.ipynb```
 
 In machine learning we use large amounts of data to train our models. Some machine learning algorithms may require that the data is normalized (range of values be between 0 and 1) in order to work correctly.
 
@@ -22,6 +22,6 @@ After the data has been mean normalized, it is customary in machine learnig to s
 2. A Cross Validation Set : contains 20% of the data
 3. A Test Set : contains 20% of the data
 
-### Pandas Mini-Project: Statistics From Stock Data
+### Pandas Mini-Project: ```Statistics_From_Stock_Data/```
 
 We will load stock data into a Pandas Dataframe and calculate some statistics on it. We will be working with stock data from Google, Apple, and Amazon. All the stock data was downloaded from yahoo finance in CSV format. We have a file named GOOG.csv containing the Google stock data, a file named AAPL.csv containing the Apple stock data, and a file named AMZN.csv containing the Amazon stock data.
