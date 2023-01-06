@@ -25,3 +25,6 @@ After the data has been mean normalized, it is customary in machine learnig to s
 ### Pandas Mini-Project: ```Statistics_From_Stock_Data/```
 
 We will load stock data into a Pandas Dataframe and calculate some statistics on it. We will be working with stock data from Google, Apple, and Amazon. All the stock data was downloaded from yahoo finance in CSV format. We have a file named GOOG.csv containing the Google stock data, a file named AAPL.csv containing the Apple stock data, and a file named AMZN.csv containing the Amazon stock data.
+
+### project_2 : Create my own image classifier
+[datas](https://drive.google.com/drive/folders/1P2JPyeyOjYaKykiL8GR3vdnakjv3Nm6n)
